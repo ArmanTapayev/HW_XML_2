@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rootLevel>
+  <!-- Глубина влеженности 1 -->
+  <level1 id="1">
+    <!-- Глубина влеженности 2 -->
+    <level2 id="2">
+      <!-- Глубина влеженности 3 -->
+      <level3 id="3">
+        <!-- Глубина влеженности 4 -->
+        <level4 id="4">
+          <levelLast id="5">Element_1</levelLast>
+          <!-- Дочерний элемент 1 -->
+          <levelLast id="5">Element_2</levelLast>
+          <!-- Дочерний элемент 2-->
+          <levelLast id="5">Element_3</levelLast>
+          <!-- Дочерний элемент 3 -->
+          <levelLast id="5">Element_4</levelLast>
+          <!-- Дочерний элемент 4 -->
+          <levelLast id="5">Element_5</levelLast>
+          <!-- Дочерний элемент 5 -->
+        </level4>
+      </level3>
+    </level2>
+  </level1>
+</rootLevel>
